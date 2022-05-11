@@ -26,6 +26,9 @@ src="https://img.shields.io/github/followers/iamabhishekt?logo=github&style=for-
 
 ### Badges
 
+<b>My Reading Stats</b>
+<a href="https://app.daily.dev/art0"><img src="https://api.daily.dev/devcards/c7d0589d69bb4280bbfae0cb51fe2146.png?r=28y" width="400" alt="Abhishek Thakur's Dev Card"/></a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/iamabhishekt"><img src="https://github-readme-stats.vercel.app/api?username=iamabhishekt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="iamabhishekt's GitHub stats" /></a>
