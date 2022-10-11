@@ -12,6 +12,8 @@ I am passionate about bridging the gap between design and technology. Self-motiv
 *   🤝  I'm open to collaborating on Web3, Machine Learning Projects
 *   ⚡  Casual gamer, Chess player and in some spare time love to do Sketching.
 
+![QUOTES](https://quotier.vercel.app/quote)
+
 <a href="https://www.twitter.com/Abhishek260198" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Abhishek260198?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/> </a><a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iamabhishekt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
