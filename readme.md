@@ -15,7 +15,7 @@ I am passionate about bridging the gap between design and technology. Self-motiv
 ![QUOTES](https://quotier.vercel.app/quote)
 
 <a href="https://twitter.com/iamabhi_art" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Abhishek260198?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/> </a><a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/iamabhi_art?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/> </a><a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iamabhishekt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Languages and Skills
