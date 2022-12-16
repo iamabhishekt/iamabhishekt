@@ -17,7 +17,13 @@ I am excited to explore opportunities to use my skills to build and maintain app
 *   🤝  I'm open to collaborating on Open-Source Projects
 *   ⚡  I'm a casual gamer, plays chess and have a hobby of sketching!
 
+### Quote of The day
+
 ![QUOTES](https://quotier.vercel.app/quote)
+
+<br />
+
+### Github Stats
 
 <a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iamabhishekt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
