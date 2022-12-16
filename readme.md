@@ -1,7 +1,7 @@
 Hi 👋 My name is Abhishek!
 ==========================
 
-Web and Software Developer
+Student Who wants to become FrontEnd and DevOps Engineer
 --------------------------
 Hi there! My name is **Abhishek** and I am a front-end developer with a strong background in the NextJS, Typescript stack. In addition to my development skills, I also have a deep understanding of devOps principles, including containerization and deployment using tools like Docker.
 
@@ -39,14 +39,18 @@ src="https://img.shields.io/github/followers/iamabhishekt?logo=github&style=for-
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <br />
 
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-<br />
+
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg " width="30px" style="padding-right:10px;" /></t> </a> <a href="https://www.linkedin.com/in/abhishekrthakur/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg " width="32" height="32" /> </a> </p>
+<p align="left"> <a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /></t> </a> 
+<a href="https://www.linkedin.com/in/abhishekrthakur/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg " width="32" height="32" /> </a> </p>
 
 ### Badges
 
