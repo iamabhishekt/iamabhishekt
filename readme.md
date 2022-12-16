@@ -41,6 +41,9 @@ src="https://img.shields.io/github/followers/iamabhishekt?logo=github&style=for-
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<br />
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg " width="30px" style="padding-right:10px;" /></t> </a> <a href="https://www.linkedin.com/in/abhishekrthakur/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg " width="32" height="32" /> </a> </p>
