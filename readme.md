@@ -21,15 +21,15 @@ I am excited to explore opportunities to use my skills to build and maintain app
 
 ![QUOTES](https://quotier.vercel.app/quote)
 
-<br />
 
 ### Github Stats
 
 <a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iamabhishekt?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Languages and Skills
+</br>
 
+### Languages and Skills
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 
@@ -51,8 +51,7 @@ src="https://img.shields.io/github/followers/iamabhishekt?logo=github&style=for-
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <br />
 
-
-
+<br>
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /></a> 
