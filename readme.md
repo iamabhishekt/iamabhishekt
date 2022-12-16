@@ -17,6 +17,7 @@ I am excited to explore opportunities to use my skills to build and maintain app
 *   🤝  I'm open to collaborating on Open-Source Projects
 *   ⚡  I'm a casual gamer, plays chess and have a hobby of sketching!
 
+<br/>
 ![QUOTES](https://quotier.vercel.app/quote)
 
 <a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img
@@ -49,8 +50,10 @@ src="https://img.shields.io/github/followers/iamabhishekt?logo=github&style=for-
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /></t> </a> 
-<a href="https://www.linkedin.com/in/abhishekrthakur/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg " width="32" height="32" /> </a> </p>
+<!-- <img align="left" alt="Linkedin" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> -->
+<p align="left"> <a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /></a> 
+<a href="https://www.github.com/iamabhishekt" target="_blank" rel="noreferrer"><img align="left" alt="Github" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /></a> </p>
+<!-- <a href="https://www.linkedin.com/in/abhishekrthakur/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg " width="32" height="32" /> </a>  -->
 
 ### Badges
 
