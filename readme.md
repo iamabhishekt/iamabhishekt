@@ -11,7 +11,7 @@ From my projects, I have used my devOps knowledge to streamline deployment proce
 
 I am excited to explore opportunities to use my skills to build and maintain applications that have a real impact on users. Thank you for visiting my GitHub Profile!
 
-*   🌍  I'm based in Harriosn, New Jersey
+*   🌍  I'm based in Harrison, New Jersey
 *   ✉️  You can contact me at [abhishekthakur.art@protonmail.com](mailto:abhishekthakur.art@protonmail.com)
 *   🧠  I'm learning New Tools from DevOps world
 *   🤝  I'm open to collaborating on Open-Source Projects
