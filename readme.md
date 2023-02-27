@@ -10,6 +10,8 @@ I have a passion for building intuitive and engaging user experiences, and I am 
 
 From my projects, I have used my devOps knowledge to streamline deployment processes and ensure that our applications are delivered to users quickly and reliably. I am confident in my ability to bring value to any team as a front-end developer and devOps engineer.
 
+![Visitor Count](https://profile-counter.glitch.me/vatsalcode/count.svg)
+
 I am excited to explore opportunities to use my skills to build and maintain applications that have a real impact on users. Thank you for visiting my GitHub Profile!
 
 *   🌍  I'm based in Harrison, New Jersey
