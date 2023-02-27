@@ -1,4 +1,15 @@
-![ABHISHEK](index.svg "00111010 00101001").
+     _________________________________________
+    / Hi, I am Abhishek Thakur                   \
+      -----------------------------------------
+        \
+         \
+             .--.
+            |o_o |
+            |:_/ |
+           //   \ \
+          (|     | )
+         /'\_   _/`\
+         \___)=(___/
 
 # Hi ![image](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abhishek!
 
@@ -10,7 +21,7 @@ I have a passion for building intuitive and engaging user experiences, and I am 
 
 From my projects, I have used my devOps knowledge to streamline deployment processes and ensure that our applications are delivered to users quickly and reliably. I am confident in my ability to bring value to any team as a front-end developer and devOps engineer.
 
-![Visitor Count](https://profile-counter.glitch.me/vatsalcode/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/iamabhishekt/count.svg)
 
 I am excited to explore opportunities to use my skills to build and maintain applications that have a real impact on users. Thank you for visiting my GitHub Profile!
 
