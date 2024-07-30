@@ -84,7 +84,7 @@ src="https://img.shields.io/github/followers/iamabhishekt?logo=github&style=for-
 
 <b>My Reading Stats</b>
 
-<a href="https://app.daily.dev/art0"><img src="https://api.daily.dev/devcards/c7d0589d69bb4280bbfae0cb51fe2146.png?r=6lu" width="400" alt="Abhishek Thakur's Dev Card"/></a>
+<a href="https://app.daily.dev/iamabhishekt"><img src="https://api.daily.dev/devcards/v2/5nQbSfy8uL5bpEsj0gkd9.png?type=wide&r=y6v" width="652" alt="Abhishek's Dev Card"/></a>
 
 <b>My GitHub Stats</b>
 
