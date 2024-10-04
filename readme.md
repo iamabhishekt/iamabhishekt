@@ -23,7 +23,7 @@
 
 # Hi ![image](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Abhishek!
 
-Student Who wants to become FrontEnd and DevOps Engineer
+Student Who wants to become FrontEnd Developer
 --------------------------
 Hi there! My name is **Abhishek** and I am a front-end developer with a strong background in the NextJS, Typescript stack. In addition to my development skills, I also have a deep understanding of devOps principles, including containerization and deployment using tools like Docker.
 
