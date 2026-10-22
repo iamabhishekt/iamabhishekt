@@ -36,6 +36,21 @@
 <br>
 <br>
 
+<h3><code>abhishek@github ~ $ cat now.txt</code></h3>
+
+<p><b>Work: Limosys · Front-end (React, TypeScript, JavaScript) · Backend (Java, Rust)</b></p>
+<p><b>Learning now: Rust (systems and shell) · FDE (forward-deployed engineering)</b></p>
+
+<h3><code>abhishek@github ~ $ ./stack.sh</code></h3>
+
+<p>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+</p>
+
 <h3><code>abhishek@github ~ $ ./links.sh</code></h3>
 
 <p><b>Front-End Developer · DevOps Enthusiast · Lifelong Learner</b></p>
