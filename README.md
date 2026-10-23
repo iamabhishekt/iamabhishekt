@@ -38,8 +38,19 @@
 
 <h3><code>abhishek@github ~ $ cat now.txt</code></h3>
 
-<p><b>Work: Limosys · Front-end (React, TypeScript, JavaScript) · Backend (Java, Rust)</b></p>
-<p><b>Learning now: Rust (systems and shell) · FDE (forward-deployed engineering)</b></p>
+<p><b>From Thane, India · now in New Jersey, USA, working at Limosys</b></p>
+<p><b>Building: React · TypeScript · JavaScript · Java</b></p>
+<p><b>Learning in public: Rust (a shell from scratch) · C (Redis from scratch) · FDE (forward-deployed engineering)</b></p>
+
+<h3><code>abhishek@github ~ $ ls projects/</code></h3>
+
+<table>
+<tr>
+<td valign="top"><b><a href="https://ecommerce-website-ashy-one.vercel.app">Sattvora Storefront</a></b><br>React 19 storefront: catalogue, cart, checkout and an admin panel. Live on Vercel.</td>
+<td valign="top"><b>DataOps Copilot</b><br>Agent Harness hackathon build on TrueForge: an agent that investigates data issues with guardrails.</td>
+<td valign="top"><b>Build your own X</b> <i>(coming soon)</i><br>Rebuilding tools from scratch, in public: a shell in Rust, Redis in C, then a database and a web server.</td>
+</tr>
+</table>
 
 <h3><code>abhishek@github ~ $ ./stack.sh</code></h3>
 
@@ -53,9 +64,9 @@
 
 <h3><code>abhishek@github ~ $ ./links.sh</code></h3>
 
-<p><b>Front-End Developer · DevOps Enthusiast · Lifelong Learner</b></p>
+<p><b>Front-End Developer · Learning in Public</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abhishekt.me-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://abhishekt.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iamabhishekt.github.io-0d1117?style=for-the-badge&logo=githubpages&logoColor=white)](https://iamabhishekt.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-iamabhishekt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iamabhishekt)
 [![GitHub](https://img.shields.io/badge/GitHub-iamabhishekt-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamabhishekt)
 [![Email](https://img.shields.io/badge/Email-abhishekthakur.art%40protonmail.com-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:abhishekthakur.art@protonmail.com)
